@@ -1,4 +1,3 @@
-package com.wipro;
 
 public class HelloJenkins 
 {
